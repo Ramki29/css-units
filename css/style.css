@@ -1,0 +1,81 @@
+.u1
+	{
+	font-size:1cm;
+	}
+
+.u2
+	{
+	font-size:5mm;
+	}
+
+.u3
+	{
+	font-size:0.5in;
+	}
+
+.u4
+	{
+	font-size:20pt;
+	}
+
+.u5
+	{
+	font-size:1pc;
+	}
+
+.u6
+	{
+	font-size:10px;
+	}
+
+.u7
+	{
+	font-size:1em;
+	}
+
+.u8
+	{
+	font-size:5rem;
+	}
+
+.u9
+	{
+	font-size:5vh;
+	}
+
+.u10
+	{
+	font-size:2vw;
+	}
+
+.u11
+	{
+	font-size:3vmin;
+	}
+
+.u12
+	{
+	font-size:4vmax;
+	}		
+	
+
+.u13
+	{
+	font-size:90%;
+	}
+
+h1
+	{
+	background:linear-gradient(to right,#E973C6,#92E973,#F0E25E);
+	padding:10px;
+	border:solid #EAD35E;
+	text-align:center;
+	}
+	
+h2
+	{
+	background-color:#B3B172;
+	color:#fff;
+	}
+		
+	
